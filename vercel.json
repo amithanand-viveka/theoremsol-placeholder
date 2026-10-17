@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/referable", "destination": "https://www.claritybyviveka.in/referable", "permanent": true },
+    { "source": "/pitchframe", "destination": "https://www.claritybyviveka.in/referable", "permanent": true },
+    { "source": "/pitchframe.html", "destination": "https://www.claritybyviveka.in/referable", "permanent": true }
+  ]
+}
